@@ -16,5 +16,13 @@ Il problema è anche peggiore con gli scrittori che tendono a raccontare della l
 
 I registi di Hollywood sono un esempio dell'essenza della professionalità della creatività. Quando si pensa a Quentin Tarantino si immagina un pazzo creativo con un talento molto singolare riconoscibile nel suo modo di fare film. La l'originalità di Tarantino inizia con l'imitazione. E' invece noto per copiare e ricostruire scene sulla base di altri film, e una volta a riguardo disse: "Ho rubato materiale da tutti i film prodotti nella storia".
 
+Guardando al lavoro di Tarantino trovo il paradosso che imitazione e innovazione non sono in contrapposizione ma operano in tandem.
 
+Non so voi, ma io sono un tipo che si butta sul divano con i pop corns e si gode il film senza altri pensieri. Film significa divertimento e relax, per me ed è una occasione per staccare dalla vita reale e farsi catturare in un altro mondo. Pensavo che tutti fossero così finché non ho visto un film con un regista, per lui è l'esatto opposto. Un regista è attento ai minimi dettagli di un film, dalla musica che deve sostenere il percorso delle emozioni, all'illuminazione che risalta il volto degli attori, ai movimenti di camera che devono anticipare gli sviluppi della trama.
+
+Ascltando un regista rileggere un film mi viene da chiedermi: "Abbiamo visto lo stesso film?". Mi viene la sensazione di aver vissuto in un mondo monodimensionale mentre lui viveva uno spazio a 4 dimensioni.
+
+Un amico regista mi disse che in Joker la colonna sonora aiuta ad empatizzare con Arthur Fleck che sta divendando Joker. Il compositore Hildur Guðnadóttir usa il violoncello nella scena di apertura per dare l'empatia con il protagonista. Ma quando viene rivelata la natura oscura di Joker l'orchestra alza continuamente l'intensità. Più la rabbia sale, più l'orchestra si fa sentire. In tutto questo, la musica ha creato la percezione che il pubblico ha di lui. Semplice, quasi ingenuo, poco cool.
+
+Da questo racconto ho imparato che chi gli artisti consumano l'arte in modo diverso dai profani. Sono consumatori di arte con uno scopo preciso, è la loro attività principale. I registi non guardano film per rilassarsi, ma per vedere come sono fatti. Coscientemente o no, guando e creano un loro personale catalogo pinterest nella mente, una libreria di idee da riusare per i loro prossimi lavori.
 
