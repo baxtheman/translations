@@ -52,4 +52,11 @@ Con quanto detto non voglio premiare la pigrizia. Adoro ammirare le innovazioni 
 
 Seguire una direzione opposta rispetto all'arte egizia comunque non funziona. Innovazione senza imitazione è solo follia. Prendiamo degli esempio storici. L'invenzione rivoluzionaria della relatività generale da parte di Einstein è stata resa possibile da decenni di studi sui fisici classici, sulle cui basi si è appoggiato. Molti dei musicisti più virtuosi hanno passato ore a esercitarsi sulle scale per cogliere la forza creativa di coloro che ammiravano. Nel mondo della scrittura, Hunter S. Thompson una volta ha scritto a mano ogni parola de "Il grande Gatsby" in modo da poter provare l'emozione di scrivere un grande romanzo. Robert Louis Stevenson ha copiato meticolosamente i paragrafi che gli piacevano e, una volta che ha preso dimestichezza con loro, ha lanciato i libri dall'altra parte della stanza per costringersi a riscrivere i paragrafi a memoria.
 
-Tornando ai giorni nostri, gli scrittori esitano a raccontare i loro esercizi di imitazione. Temono il plagio. 
+Tornando ai giorni nostri, gli scrittori esitano a raccontare i loro esercizi di imitazione. Hanno una grande paura di plagio. Una paura acquisita a scuola dove ci insegnano a temere cosa ha l'odore dell'imitazione. Il plagio è punito duramente come un supplizio eterno.
+
+Ovviamente il plagio è cosa da condannare. Il problema è che la nostra tormentata paura del plagio ha stretto gli artigli attorno alle cose che in realtà fanno del bene. Per eccessiva cautela, abbiamo perso il contatto con la sottile, ma importante distinzione tra rubare il lavoro di altre persone senza dar loro credito (che è ovviamente una cosa negativa) e rispecchiare lo stile o i valori di uno scrittore che ammiri (che dovrebbe essere lodato e promosso).
+
+## Sana emulazione, cosa ti è accaduto?
+
+L'etimologia della parola imitare o emulare è un aspetto per me interessante. Al tempo di Shakespeare, la parola "ape" (scimmia) significava sia "primate" che "imitare". In italiano si usa "scimmiottare" per indicare una pessima imitazione. L'etimologia ci suggerisce che l'emulazione è parte di quello che siamo.
+
