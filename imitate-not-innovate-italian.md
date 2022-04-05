@@ -58,5 +58,21 @@ Ovviamente il plagio è cosa da condannare. Il problema è che la nostra torment
 
 ## Sana emulazione, cosa ti è accaduto?
 
-L'etimologia della parola imitare o emulare è un aspetto per me interessante. Al tempo di Shakespeare, la parola "ape" (scimmia) significava sia "primate" che "imitare". In italiano si usa "scimmiottare" per indicare una pessima imitazione. L'etimologia ci suggerisce che l'emulazione è parte di quello che siamo.
+L'etimologia della parola imitare o emulare è un aspetto per me interessante. Al tempo di Shakespeare, la parola "ape" (scimmia) significava sia "primate" che "imitare". In italiano si usa "scimmiottare" per indicare una pessima imitazione. L'etimologia ci vuole suggerisce che l'emulazione è parte di quello che siamo.
+
+Guardando alla storia, il tipico apprendimento basato sull'imitazione è sempre stato il tirocinio, anche detto noviziato. Guardiamo alla storia di Leonardo Da Vinci. Non ha avuto un percorso scolastico come lo intendiamo oggi, ma il suo tirocinio è iniziato a 14 anni. Il tempo nella bottega del suo maestro gli ha fatto imparare la matematica, il disegno e la bellezza della geometria. Nel perfetto spirito "prima imita, poi innova" c'è grande correlazione fra ciò  che Leonardo ha prima osservato e cosa poi ha realizzato da se stesso. Di fatto uno dei più famosi lavori del suo maestro è un giovane Davide trionfante su Golia. Detto questo non dovrebbe quindi sorprendere che questo lavoro somigli molto al Davide dipinto da Leonardo successivamente, e forse ha pure influenzato il David di Michelangelo.
+
+![From left to right: Verrocchio’s statue of David, Michelangelo’s statue of David, and Leonardo da Vinci’s study of Michelangelo. ](https://link)
+
+Oggi le cose sono diverse. Abbiamo abbandonato l'apprendistato in nome dell'efficienza. Oggi l'aspirante Da Vinci sarebbe in una scuola professionale e non in bottega con il suo maestro.
+
+
+
+
+
+
+
+
+
+_In progress_
 
