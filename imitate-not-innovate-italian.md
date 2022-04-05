@@ -26,3 +26,11 @@ Un amico regista mi disse che in Joker la colonna sonora aiuta ad empatizzare co
 
 Da questo racconto ho imparato che chi gli artisti consumano l'arte in modo diverso dai profani. Sono consumatori di arte con uno scopo preciso, è la loro attività principale. I registi non guardano film per rilassarsi, ma per vedere come sono fatti. Coscientemente o no, guando e creano un loro personale catalogo pinterest nella mente, una libreria di idee da riusare per i loro prossimi lavori.
 
+Prendiamo ad esempio George Lucas. Per preparare Star Wars si è rifatto al pensiero di Joseph Cambell che ha avuto una carriera sullo studio di mitologia e religione. Attraverso i suoi scritti, ha esposto una teoria dell'eroe archetipico che compare in tutti i tipi di storie nel corso della storia. Storia conosciuta come “The Hero’s Journey. Mentre scriveva Star Wars, Lucas ha tratto ispirazione dal libro più famoso di Campbell: "The Hero with a Thousand Faces". Lucas sentiva che la triade di mitologia, folklore e fiabe era scomparsa in Occidente e voleva che il suo nuovo film la facesse rivivere. Per allineare la storia con i classici che avevano risuonato in così tante culture umane, Lucas ha riscritto la sua bozza di Star Wars per allinearla al lavoro di Cambell.
+
+L'originalità artistica di Lucas è stata accresciuta da una imitazione rispettosa del lavoro di Campbell e dei suoi temi ricorrenti. Se Lucas avesse sofferto della malattia dell'originalità che affligge così tanti scrittori contemporanei, Star Wars non sarebbe diventato ciò che oggi conosciamo.
+
+## Originality Disease
+
+Propongo 3 ipotesi sull'origine del "disturbo dell'originalità":
+
