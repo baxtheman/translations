@@ -44,11 +44,11 @@ Si dice che l'arte rifletta lo spirito dei tempi. Forse il pensiero secolare si 
 
 L'alternativa è andare verso la verità. Nelle parole di C.S. Lewis, famoso per la vivida immaginazione che ha presentato in storie come le Cronache di Narnia: "Nessun uomo a cui importa dell'originalità sarà mai originale. È l'uomo che sta solo pensando di fare un buon lavoro o di dire la verità, questo diventa davvero originale e non se ne accorge nemmeno".
 
+Le parole di C.S.Lewis sono in linea con la premessa dell'eccellente documentario di Roger Scruton "Why Beauty Matters". Si apre con l'idea che prima del 20° secolo, se qualcuno avesse chiesto a qualcun altro quale fosse lo scopo di creare arte, avrebbe detto: "Per fare qualcosa di bello". Ma dal tempo dell'urinatoio di Duchamp nel 1917, il primo scopo dell'arte è scioccare lo spettatore in modo originale, la qualità è cosa secondaria. Per catturare l'attenzione di chi guarda l'artista usa atteggiamenti disturbanti e cerca di violare i tabù. Piuttosto di raggiungere l'alto obbiettivo della bellezza oggettiva, è stato esposto il "mondo interiore" e i risultati sono stati decisamente brutti. Scruton rimarca che il linguaggio, la musica, l'educazione sono aspetti divenuti offensivi oppure auto-referenziali. Scruton indica il declino della bellezza come causa della auto-referenzialità della modernità e do una insensata rottura con la tradizione.
+
+Duchamp’s Urinal![Duchamp’s Urinal](https://lh5.googleusercontent.com/cBCRPetoJ3keQd5W3FeeecrPFKwAtceaGnEa0DPr2V2ga4OhufXxd5sD_AJPX7HuaF-nsiVrmsI2vLnFXpmIRXirU-CGC3ZCMvTNQNFwJ_d3mRx0BUbqJfEgzVv3pxw4h--hPLT7) Duchamp’s Urinal
 
 
 
-
-![Duchamp’s Urinal](https://lh5.googleusercontent.com/cBCRPetoJ3keQd5W3FeeecrPFKwAtceaGnEa0DPr2V2ga4OhufXxd5sD_AJPX7HuaF-nsiVrmsI2vLnFXpmIRXirU-CGC3ZCMvTNQNFwJ_d3mRx0BUbqJfEgzVv3pxw4h--hPLT7)
-Duchamp’s Urinal
 
 
