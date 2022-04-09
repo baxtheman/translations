@@ -72,7 +72,9 @@ Per vedere cosa intendo guardiamo a come avviene l'insegnamento dello scrittura.
 
 Se tradurre una certa conoscenza in forma scritta è un compito arduo allora quella conoscenza dovrebbe essere trasmessa attraverso l'imitazione. Spesso, certe abilità hanno un sacco di sottigliezze che si imparano meglio parlandone direttamente con un esperto o, meglio ancora, guardandolo fare nel suo lavoro. Cucinare ne è un esempio sublime. Avere i migliori libri di cucina e seguirne le ricette ti aiuterà a diventare un buon cuoco, ma certamente non basterà per essere Gordon Ramsay. Ogni chef dovrebbe conoscere la scienza base della preparazione del cibo, 4 elementi base della cottura (sale, grassi, acidi, calore) e i 5 sapori fondamentali (dolce, salato, acido, amaro e umami), ma per raggiungere le vette dell'alta cucina ci sono molte altre regole che si acquisiscono con la pratica e l'affiancamento di chi è più esperto. Apprendere la scienza base della cucina ti porta ad un buon livello del mestiere, ma essere nell'eccellenza significa avere un arte. Un sistema di regole rigido non si adatta a descrivere le molteplici sfaccettature di ciò che accade in cucina.
 
+Le arti creative sono simili con una differenza: mentre è possibile imitare (riprodurre) un prodotto creativo, questo non vale per il saper cucinare. Questo è il motivo per cui leggere scrittori molto bravi è uno dei modi migliori per diventare un buon scrittore. Anche se i principi di una scrittura potente non sono facili da trasferire, leggere molto buon materiale affina la propria intuizione nel saper riconoscere testi di qualità.
 
+Per riconoscere quando serve l'apprendimento imitativo basta questo: cercare un tutorial su Youtube per saper fare qualcosa. "L'ho imparato su Youtube" spesso riguarda capacità manuali e non intellettuali, spesso difficile da descrivere solo a parole (faccio prima a fartelo vedere che raccontartelo). Nessuno impara a ballare leggendo un libro. ...........
 
 
 
