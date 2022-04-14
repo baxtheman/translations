@@ -74,7 +74,11 @@ Se tradurre una certa conoscenza in forma scritta è un compito arduo allora que
 
 Le arti creative sono simili con una differenza: mentre è possibile imitare (riprodurre) un prodotto creativo, questo non vale per il saper cucinare. Questo è il motivo per cui leggere scrittori molto bravi è uno dei modi migliori per diventare un buon scrittore. Anche se i principi di una scrittura potente non sono facili da trasferire, leggere molto buon materiale affina la propria intuizione nel saper riconoscere testi di qualità.
 
-Per riconoscere quando serve l'apprendimento imitativo basta questo: cercare un tutorial su Youtube per saper fare qualcosa. "L'ho imparato su Youtube" spesso riguarda capacità manuali e non intellettuali, spesso difficile da descrivere solo a parole (faccio prima a fartelo vedere che raccontartelo). Nessuno impara a ballare leggendo un libro. ...........
+Per riconoscere quando serve l'apprendimento imitativo basta questo: cercare un tutorial su Youtube per saper fare qualcosa. "L'ho imparato su Youtube" spesso riguarda capacità manuali e non intellettuali, spesso difficile da descrivere solo a parole (faccio prima a fartelo vedere che raccontartelo). Nessuno impara a ballare leggendo un libro. Invece guardando un video si può provare a copiare, emulando cosa fa la persona sullo schermo. Similmente si dice che i libri sulla scrittura sono pessimi e concordo su questo. Non perché chi li ha scritti siano pessimi scrittori ma perché l'intento è distillare le parti più profonde della scrittura in un testo, e certe idee vengono ridotte e smettono di essere utili.
+
+L'educazione nelle materie creative inizia con i benefici del fare, del guardare e provare. Riprodurre il lavoro di qualcun'altro ti obbliga a ripercorrerne le scelte fatte, a rifare il suo stesso percorso mentale. L'apprendista si ritrovare ad intrecciare i fili del lavoro altrui mentre realizza un nuovo personale arazzo.
+
+## Lezioni dalla pittura
 
 
 
