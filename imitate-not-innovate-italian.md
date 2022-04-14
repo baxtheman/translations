@@ -80,6 +80,22 @@ L'educazione nelle materie creative inizia con i benefici del fare, del guardare
 
 ## Lezioni dalla pittura
 
+Accade che certe situazioni sociali in cui ci troviamo a vivere rivelino chi siamo veramente. La personalità è un aspetto relativo, la solitudine non ci da l'occasione di confrontarci con nessuno. Il poeta John O’Donohue descrive bene questo dicendo: "Alla presenza degli altri puoi iniziare a vedere chi sei guardando come la tua immagine si riflette in loro e ritorna a te."
+
+L'imitazione ci aiuta a scoprire i nostri aspetti creativi portando a galla i nostri gusti e quali parti del processo creativo è più connaturale in noi. E' quello che usano dire gli scrittori quando sono alla ricerca della loro "voce interiore".
+
+L'imitazione aiuta a creare il proprio percorso di apprendimento. Conosco maestri di pittura che spinge i propri studenti ad ascoltare la fatica che fanno nel lavoro di imitazione. Dicono che la tua "voce interiore" si palesa come reazione del tuo stile personale rispetto allo stile del pittore che si vuole copiare.
+
+Uno degli aspetti pià interessanti per me nel visitare un udeo d'arte è osservare gli artisti di passaggio che cercano di copiare le opere esposte nei loro taccuini. Cerco di parlare con qualcuno di loro, mi interessa capire come l'atto del copiare li porti a interiorizzare l'opera che hanno davanti. Conversando posso capire le loro osservazioni e farne tesoro per me stesso. Durante un giro al British Museum faci conoscenza con un aspirante pittore di nome Finley. Lo incontrai mentre abbozzava un disegno di statue greche e cercava di farne risaltare il senso del movimento. Attraverso ogni segno nero, fra le parti chiare e le ombre, si trovava a dover capire perchè lo scultore antico avesse scelto dato forma al marmo in certi particolari modi. Attraverso statue di molti secoli prima di lui, Finley si trovava  impegnato in una vivace conversazione con il fantasma di questo antico artigiano.
+
+Non è un caso che molti scrittori professionisti vengano formati attraverso la pittura. Imparare ad osservare come un pittore è fra i migliori esercizi per diventare uno scrittore accurato. Entrambi le abilità richiedono un certo senso dell'osservazione. Mentre i pittori puntano a illuminare il mondo con colori e ombre, gli scrittori lo illuminano con le parole e metafore. Entrambe le attività sono atti di composizione e, talvolta, di occultamento selettivo di informazioni. Scrittura e pittura hanno delle proprietà essenziali simili che si manifestano in modi completamente diversi, come accade per le diverse zone dello spettro elettromagnetico. La luce visibile, i raggi X, l'ultravioletto o l'infrarosso ci raccontano aspetti diversi della stessa realtà osservata.
+
+
+
+
+
+
+
 
 
 _In progress_
