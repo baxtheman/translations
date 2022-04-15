@@ -100,7 +100,10 @@ Ci sono 2 tipi di imitazione: prossima e lontana.
 
 Le persone, pensando all'imitazione, spesso hanno in mente l'imitazione prossima. E' il caso dell'imitazione di persone che fanon la tua stessa attività. Quello che Hunter S. Thompson ha fatto riscrivendo ogni singola parola de Il Grande Gatsby. Stesso esempio per i musicisti che si allenano rifacendo le canzioni preferite, e come fece Kobe Bryant imparando i movimenti dei più grandi giocatori di basket della storia. Lo disse lo stesso Kobe: "I miei movimenti sono un grande furto dai giocatori più grandi".
 
-L'imitazione lontana invece è un trasferimento di idee fra domini diversi e lontani. L'interpretazione dei sogni di Sigmund Freud è conosciuto come uno dei lavori più originali della psicologia, ma i più non sanno quanto sia stato ispirato da Nietzche. Concetti come la rimozione, le pulsioni istintuali, la mente inconscia e il simbolismo dei sogni sono radicati nell'opera di Nietzche.
+L'imitazione lontana invece è un trasferimento di idee fra domini diversi, fra galassie diverse. L'interpretazione dei sogni di Sigmund Freud è conosciuto come uno dei lavori più originali della psicologia, ma i più non sanno quanto sia stato ispirato da Nietzche. Concetti come la rimozione, le pulsioni istintuali, la mente inconscia e il simbolismo dei sogni sono radicati nell'opera di Nietzche.
+
+La prefazione del mio saggio su Peter Thiel è che il suo approccio all'investimento è in realtà l'applicazione pratica della filosofia di René Girard. Puoi fare qualcosa di simile. Come Thiel, puoi innovare scegliendo bene la tua fonte di imitazione. Da dove iniziare? Ecco un indizio: molto del futuro che verrà ha origine nell'arte, prima che diventi realtà. Il mondo della tecnologià è sempre stato attento alla narrativa fantascientifica. Steve Jobs è noto per aver estratto da Star Trek il design dell'Ipad, e prima ancora idee come FaceTime si potevano trovare in 2001 Odissea nello spazio.
+
 
 
 
