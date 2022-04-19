@@ -91,7 +91,19 @@ Uno degli aspetti pià interessanti per me nel visitare un udeo d'arte è osserv
 
 Non è un caso che molti scrittori professionisti vengano formati attraverso la pittura. Imparare ad osservare come un pittore è fra i migliori esercizi per diventare uno scrittore accurato. Entrambi le abilità richiedono un certo senso dell'osservazione. Mentre i pittori puntano a illuminare il mondo con colori e ombre, gli scrittori lo illuminano con le parole e metafore. Entrambe le attività sono atti di composizione e, talvolta, di occultamento selettivo di informazioni. Scrittura e pittura hanno delle proprietà essenziali simili che si manifestano in modi completamente diversi, come accade per le diverse zone dello spettro elettromagnetico. La luce visibile, i raggi X, l'ultravioletto o l'infrarosso ci raccontano aspetti diversi della stessa realtà osservata.
 
+La parte più sorprendente nel abbozzare un disegno copiando un'altra opera sono i piccoli particolari che si notano solo dopo diverse ore. Scrivere o disegnare è imparare a vedere. Forse per questo  David McCullough, discreto pittore e forse uno dei migliori biografi americani, disse: "L'intuizione viene, il più delle volte, dal guardare ciò che è stato sul tavolo per tutto il tempo, davanti a tutti, piuttosto che scoprire qualcosa di nuovo... Questo è il grande monito di Dickens a tutti gli scrittori: -Che io possa vedere-".
 
+Se i pittori ottengono così tanto dall'imitazione di un lavoro che rivive in loro, forse gli scrittori dovrebbero strappare qualche pagine dei loro appunti e iniziare a fare lo stesso.
+
+## Due tipi di imitazione
+
+Ci sono 2 tipi di imitazione: prossima e lontana.
+
+Le persone, pensando all'imitazione, spesso hanno in mente l'imitazione prossima. E' il caso dell'imitazione di persone che fanon la tua stessa attività. Quello che Hunter S. Thompson ha fatto riscrivendo ogni singola parola de Il Grande Gatsby. Stesso esempio per i musicisti che si allenano rifacendo le canzioni preferite, e come fece Kobe Bryant imparando i movimenti dei più grandi giocatori di basket della storia. Lo disse lo stesso Kobe: "I miei movimenti sono un grande furto dai giocatori più grandi".
+
+L'imitazione lontana invece è un trasferimento di idee fra domini diversi, fra galassie diverse. L'interpretazione dei sogni di Sigmund Freud è conosciuto come uno dei lavori più originali della psicologia, ma i più non sanno quanto sia stato ispirato da Nietzche. Concetti come la rimozione, le pulsioni istintuali, la mente inconscia e il simbolismo dei sogni sono radicati nell'opera di Nietzche.
+
+La prefazione del mio saggio su Peter Thiel è che il suo approccio all'investimento è in realtà l'applicazione pratica della filosofia di René Girard. Puoi fare qualcosa di simile. Come Thiel, puoi innovare scegliendo bene la tua fonte di imitazione. Da dove iniziare? Ecco un indizio: molto del futuro che verrà ha origine nell'arte, prima che diventi realtà. Il mondo della tecnologià è sempre stato attento alla narrativa fantascientifica. Steve Jobs è noto per aver estratto da Star Trek il design dell'Ipad, e prima ancora idee come FaceTime si potevano trovare in 2001 Odissea nello spazio.
 
 
 
