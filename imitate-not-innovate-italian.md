@@ -108,6 +108,17 @@ La prefazione del mio saggio su Peter Thiel è che il suo approccio all'investim
 
 Fino ad allora, la fotografia aveva lo scopo di catturare un singolo istante di tempo. Ma per poter risolvere la necessità di catturare sequenze in movimento, Marey inventò un sistema per catturare sequenze di immagini e sovrapporle in un unico foglio. Dalla sequenza unita di foto, le persone potevano osservare i movimenti e capirne i dettagli in un modo prima impossibile ad occhio nudo. Marey, fisiologo e cardiologo, è riconosciuto precursore della cinematografia. Imitare e poi innovare in questo caso significa che Marey non voleva essere originale, voleva rispondere ad una necessità e la fotografia è stata fonte di ispirazione. 
 
+![Etienne-Jules Marey’s Bird in Flight](https://collectionapi.metmuseum.org/api/collection/v1/iiif/286544/611465/main-image) Etienne-Jules Marey’s Bird in Flight
+
+Voglio sottolineare un aspetto importante. Imitare non significa diventare o fare le stesse cose di qualcun'altro. Confondere l'ispirazione con la semplice riproduzione porta all'appiatimento dello stile e priva la società del dinamismo individuale. Sono tempi in cui la riproduzione cieca di certi stili è evidente nel marketing e nel design. E' evidente come nella comunicazione di molti top brand troppo spesso si usano le stesse illustrazioni caricaturali.
+
+![These cartoon drawings are everywhere](https://lh5.googleusercontent.com/AH1s39UoWaSAVGXEc2_DYLuTL6IAwNwieN4Kc-rJNwC9qr_978T6CDdiN3FPRPmYXEOM5rDe0besM5k4a10IFyvVxw9pUvrYY2zx8pVjmRLWTy3JEWleDikSoJCoGK3cUPca0_j6) Questi disegni sono ovunque.
+
+
+
+
+
+
 
 
 _In progress_
