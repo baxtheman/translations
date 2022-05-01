@@ -114,6 +114,13 @@ Voglio sottolineare un aspetto importante. Imitare non significa diventare o far
 
 ![These cartoon drawings are everywhere](https://lh5.googleusercontent.com/AH1s39UoWaSAVGXEc2_DYLuTL6IAwNwieN4Kc-rJNwC9qr_978T6CDdiN3FPRPmYXEOM5rDe0besM5k4a10IFyvVxw9pUvrYY2zx8pVjmRLWTy3JEWleDikSoJCoGK3cUPca0_j6) Questi disegni sono ovunque.
 
+La situazione peggiora in ambienti strettamente interconnessi, quando le persone usano l'arte solo per impressionare gli altri. Ogni nuova persona che si introduce in un certo settore, che prima ha attraversato gli stessi percorsi di studio tipici, tenderà ad adottare gli stessi stili generali già consolidati. Quello che abbiamo guadagnato nella formazione di massa, lo abbiamo perso nell'unicità dei risultati. Erik Hoel, in un pezzo "How the MFA Swallowed Literature", faceva notare come la narrativa contemporanea condivida gli stessi stereotipi su come la società dovrebbe funzionare, oltre a condividere lo stesso stile minimalista. Questo contrasta con la storia dei migliori scrittori classici i quali non hanon avuto una formazione standard. William Faulkner non ha finito l'università (come Steve Jobs), Dostoevsky aveva una formazione da ingegnere, e Virginia Woolf ha ricevuto una educazione parentale.
+
+Design e scrittura ci portano ad una stessa verità: se vogliamo puntare all'innovazione, dobbiamo staccarci abbastanza da chi abbiamo scelto come modello.
+
+
+
+
 
 
 
