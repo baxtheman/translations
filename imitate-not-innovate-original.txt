@@ -122,10 +122,7 @@ With social media, the effects of imitation are even more pernicious. The incent
 
 An easy way to improve who you imitate is to escape the Never-Ending Now by diversifying your inputs, escaping your industry, and reading more about history and less about the present. 
 
-The innovators I’ve learned the most from combine near imitations with far ones. Patrick Collison comes to mind. I once asked him why, if Stripe is so innovative, they haven’t experimented with a radically different kind of corporate structure. He told me that companies shouldn’t be innovative for the sake of being innovative. Sometimes, it’s best to take the standard route so you can learn from a lineage of resources whenever you run into a problem. But imitating the best practices for the majority of what you do doesn’t mean you can’t innovate when you need to. Stripe has a famously transparent way of sharing information internally, launched a publishing company, a climate initiative, and was one of the first big tech companies to go all-in on remote work.7
-
-6
-Beyond Stripe, on the science front, Patrick told me that he and the other Arc cofounders were comfortable launching Arc Institute only once they’d studied the major biomedical institutions —LMB, Broad, HHMI, Allen, CZB, and major research universities.
+The innovators I’ve learned the most from combine near imitations with far ones. Patrick Collison comes to mind. I once asked him why, if Stripe is so innovative, they haven’t experimented with a radically different kind of corporate structure. He told me that companies shouldn’t be innovative for the sake of being innovative. Sometimes, it’s best to take the standard route so you can learn from a lineage of resources whenever you run into a problem. But imitating the best practices for the majority of what you do doesn’t mean you can’t innovate when you need to. Stripe has a famously transparent way of sharing information internally, launched a publishing company, a climate initiative, and was one of the first big tech companies to go all-in on remote work.
 
 In summation, Patrick said: “Stripe’s orientation is probably a combination of Chesterton’s fence instincts, a disinclination from being original absent strong arguments, and a curiosity about past solutions.”
 

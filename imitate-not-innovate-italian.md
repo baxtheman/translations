@@ -118,7 +118,13 @@ La situazione peggiora in ambienti strettamente interconnessi, quando le persone
 
 Design e scrittura ci portano ad una stessa verità: se vogliamo puntare all'innovazione, dobbiamo staccarci abbastanza da chi abbiamo scelto come modello.
 
+Con l'avvento dei social media, l'effetto dell'imitazione si è fatto ancora più pernicioso. Ogni piattaforma incentiva solo un certo stile creativo. Twitter premia frasi brevi ma aggressive o sfacciate. Youtube premia video dal ritmo serrato e dal contenuto pompato, e probabilmente questo non assomiglia allo stile dei film che guardi. Lasciando internet da parte, nel fiume abbondante di contenuti audio video disponibili non c'è traccia di particolari dialetti regionali. Uno studio sulla regione texana valutò che le persone intervistate prima del 1980 parlavano all'80% con il tipico accento texano. Oggi, il numero si è ridotto ad un terzo. Lo studio incolpa di questo la tv generalista: "La tipica parlata texana è stata sostituita dal generico inglese americano, ha vito l'inglese del midwest tipicamente parlato nei media."
 
+Una via facile per migliorare la scelta di chi imitare è allontanarsi dal frenetico presente e diversificare le proprie fonti, fuggire l'industria dell'intrattenimento, leggere molto della storia passata e meno del quotidiano.
+
+Gli innovatori da cui ho imparato sanno combinare l'imitazione vicina con quella remota. Penso a Patrick Collison (CEO). Gli chiesi direttamente una volta perchè Stripe, dal business così innovativo, non avesse sperimentato una struttura interna radicalmente diversa dalla norma. Mi disse che un'azienda non dovrebbe essere innovativa solo per il gusto di esserlo. Spesso è meglio prendere una strada già conosciuta e ricca di letteratura in merito, situazione migliore nel caso ci siano problemi da affrontare. Ma seguire le migliori pratiche per la maggior parte di ciò che fai non significa che non puoi innovare quando sia necessario. Stripe è nota per la trasparenza interna delle informazioni, per il lancio di una publishing company, iniziative sul clima, e resta una delle prime fintech company a introdurre il lavoro full-remoto.
+
+Riepilogando Patrick mi disse: "L'orientamento di Stripe è ispirato al principio della recinzione di Chesterton (Chesterton’s fence), una sana riluttanta a essere originali in mancanza di validi argomenti, e una attenzione alle soluzioni del passato.
 
 
 
