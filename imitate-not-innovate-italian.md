@@ -142,11 +142,7 @@ Meglio prima imitare, e poi trovare l'innovazione.
 
 Ringrazio il supporto di Ellen Fishbein, Patrick Collison, Pranav Mutatkar, Johnathan Bi, Tiago Forte, Michael Dean, Tyler Cowen, and Will Mannon per le conversazioni che hanno portato a questo saggio.
 
+---
 
-
-
-
-
-
-_In progress_
+Traduzione di Daniele Baggio, maggio 2022
 
