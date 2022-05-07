@@ -128,11 +128,10 @@ In summation, Patrick said: “Stripe’s orientation is probably a combination 
 
 Silicon Valley is a fairly ahistorical place. For how well the techies speak about current events and global history, they’re remarkably unaware of the history of their own industry. It’s as if they’re so focused on their future that they ignore their past. Patrick bucks that trend with his interest in early Silicon Valley institutions like ARPA and Xerox Parc, and industry pioneers like Alan Kay, Stewart Brand, and Douglas Englebart. Speaking to a Stanford class about Englebart, Patrick said: “So much of this early work is better than what we have today… Sure, we have solved all kinds of scaling issues, deployments, technology — but the core problems of helping people work together were thought about more back then.” 
 
-Outside of the technology industry, he’s studied the dynamics of hyper-productive intellectual cultures such as the Scottish Enlightenment which birthed a cadre of fierce scholars such as Adam Smith and David Hume, and the Renaissance — the entirety of which was centered in a single city and funded with the rough equivalent of $500 million in today’s dollars. In the grand scheme of things, that’s not a lot of money. It’s less than 10% of Stanford’s annual operating budget and roughly 5% of San Francisco’s. 
-
-Deconstructing the dynamics of these world-changing cultures initiates the “Imitate, then Innovate” method. Weirdly enough, Stripe is an original company because its founder doesn’t insist so much on being original. 
+Outside of the technology industry, he’s studied the dynamics of hyper-productive intellectual cultures such as the Scottish Enlightenment which birthed a cadre of fierce scholars such as Adam Smith and David Hume. Deconstructing the dynamics of these world-changing cultures initiates the “Imitate, then Innovate” method. Weirdly enough, Stripe is an original company because its founder doesn’t insist so much on being original. 
 
 How to Pursue Originality
+
 Observing Stripe has reminded me that originality is only useful insofar as it serves a higher end. In business, a lack of originality hints that you don’t understand the problem you’re trying to solve well enough. Once you understand a problem deeply enough, the solution becomes fairly obvious. The same industries that look like neat and organized machinery from the outside are actually duct-taped together. They’re riddled with all kinds of issues that are waiting for an entrepreneur to swoop in like Spider-Man and solve. 
 
 Writing is the same way. Through teaching, I’ve discovered that the surest sign of an amateur writer is somebody who values originality as their ultimate goal — when they should value quality, beauty, or clear communication instead.
@@ -143,43 +142,3 @@ Better to imitate, then innovate instead.
 
 Thanks to Ellen Fishbein, Patrick Collison, Pranav Mutatkar, Johnathan Bi, Tiago Forte, Michael Dean, Tyler Cowen, and Will Mannon for the conversations that shaped this essay.
 
-MORE ESSAYS
-All essays
-
-Peter Thiel’s Religion
-Human culture was fueled by rage and rivalry, which led to violence. Managing that violence is the secret reason for all religious and political institutions.
-
-
-The Attention Game
-Unlike most games, the rules of business are always evolving.
-
-
-How I Produce a Podcast
-Choosing to learn in public is the best career decision I’ve ever made.
-
-GET THE F.A.S.T. WRITING GUIDE
-Does writing take you forever?
-
-“I always get stuck writing” is one of the most common frustrations I hear from readers.
-
-I’ve got the solution.
-
-Enter your email and get my F.A.S.T. Writing guide, which will give you my 4-step process for crafting high-quality writing — even when you’re totally slammed.
-
-First Name
-Last Name
-Email Address
-
-Subscribe
-
-Twitter
-YouTube
-
-Accelerate Your Career by Writing Online
-Write of Passage teaches a step-by-step method for publishing quality content. Learn more.
-
-© David Perell. Powered by 
-WordPress
-. Hosted by 
-Pressable
-.
