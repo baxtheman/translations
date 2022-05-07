@@ -124,7 +124,17 @@ Una via facile per migliorare la scelta di chi imitare è allontanarsi dal frene
 
 Gli innovatori da cui ho imparato sanno combinare l'imitazione vicina con quella remota. Penso a Patrick Collison (CEO). Gli chiesi direttamente una volta perchè Stripe, dal business così innovativo, non avesse sperimentato una struttura interna radicalmente diversa dalla norma. Mi disse che un'azienda non dovrebbe essere innovativa solo per il gusto di esserlo. Spesso è meglio prendere una strada già conosciuta e ricca di letteratura in merito, situazione migliore nel caso ci siano problemi da affrontare. Ma seguire le migliori pratiche per la maggior parte di ciò che fai non significa che non puoi innovare quando sia necessario. Stripe è nota per la trasparenza interna delle informazioni, per il lancio di una publishing company, iniziative sul clima, e resta una delle prime fintech company a introdurre il lavoro full-remoto.
 
-Riepilogando Patrick mi disse: "L'orientamento di Stripe è ispirato al principio della recinzione di Chesterton (Chesterton’s fence), una sana riluttanta a essere originali in mancanza di validi argomenti, e una attenzione alle soluzioni del passato.
+Tirando le somme, Patrick mi disse: "L'orientamento di Stripe è ispirato al principio della recinzione di Chesterton (Chesterton’s fence), una sana riluttanta a essere originali in mancanza di validi argomenti, e una attenzione alle soluzioni del passato.
+
+La Silicon Valley è un luogo senza un passato. Per quanto bene si parli degli eventi attuali e della storia globale, i creatori dell'era digitale sono notevolmente inconsapevoli della storia del loro stesso settore. Sono molto focalizzati sul futuro che verrà, ma ignorano spesso quale passato ci sia alle spalle. Patrick è una persona in controtendenza per il suo interesse per le prime istituzioni della Silicon Valley, come ARPA e Xerox Parc, e i pionieri del settore come Alan Kay, Stewart Brand e Douglas Englebart. Parlando a una classe di Stanford, Patrick disse aproposito di Englebart (un suo progetto venuto prima di Stripe): "Molto di questo mio primo lavoro è migliore di quello che abbiamo fatto oggi... Certo, abbiamo risolto tutti i tipi di problemi di scalabilità, implementazioni, tecnologia — ma la il problema di aiutare le persone a collaborare era più sentito allora che adesso. 
+
+Tralasciando la cultura tech, Patrick ha studiato in modo approfondito la storia di culture  iper-produttive come [l'Illuminismo scozzese](https://en.wikipedia.org/wiki/Scottish_Enlightenment), che furono la cornice di studenti rivoluzionari come  Adam Smith and David Hume. Decostruire e sutudiare le dinamiche di certe culture del passato che cambiano il mondo è alla base del metodo "Imitare, quindi innovare". Stripe è un'azienda originale perché il suo fondatore non è caduto nella trappola di essere troppo originale.
+
+## Rincorrere l'originalità
+
+Osservando Stripe ho realizzato che l'originalità è cosa buona se serve ad una causa nobile. Nel business, la mancanza di originalità è segno che non viene capito bene il problema che si sta cercando di risolvere. Una volta capito il problema nella sua essenza, la soluzione arriva e può apparire anche ovvia. Certi settori che dall'esterno sembrano macchine perfette ed organizzate in realtà sono tenute insieme con lo spago. Hanno all'interno un mare di problemi da risolvere e aspettano solo l'arrivo del giusto imprenditore che come Spider Man metta a posto le cose.
+
+
 
 
 
