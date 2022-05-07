@@ -134,9 +134,13 @@ Tralasciando la cultura tech, Patrick ha studiato in modo approfondito la storia
 
 Osservando Stripe ho realizzato che l'originalità è cosa buona se serve ad una causa nobile. Nel business, la mancanza di originalità è segno che non viene capito bene il problema che si sta cercando di risolvere. Una volta capito il problema nella sua essenza, la soluzione arriva e può apparire anche ovvia. Certi settori che dall'esterno sembrano macchine perfette ed organizzate in realtà sono tenute insieme con lo spago. Hanno all'interno un mare di problemi da risolvere e aspettano solo l'arrivo del giusto imprenditore che come Spider Man metta a posto le cose.
 
+Lo scrivere è uguale. Con l'insegnamento ho scoperto che il tratto distintivo dello scrittore amatoriale è quello di chi valuta l'originalità come unico valore, mentre invece si dovrebbe valorizzare qualità, raffinatezza o la capacità della chiarezza.
 
+Come abbiamo visto finora, trovarsi nella situzione della Originality Disease non è una buona situazione per essere veramente originali. Raramente uno scrittore, o in generale un artista, si sente bloccato tanto quanto sente che le sue idee non sono abbastanza originali. Un pensiero del genere, se si fa presente, può portare in una pericolosa spirale discendente. L'ossessione per l'originalità può portare nella direzione opposta, la riproduzione di altri modelli, e generare un circolo vizioso. Coloro che considerano l'originalità la loro virtù più alta sono destinati a rimanere incastrati o a non creare nulla di sostanziale.
 
+Meglio prima imitare, e poi trovare l'innovazione.
 
+Ringrazio il supporto di Ellen Fishbein, Patrick Collison, Pranav Mutatkar, Johnathan Bi, Tiago Forte, Michael Dean, Tyler Cowen, and Will Mannon per le conversazioni che hanno portato a questo saggio.
 
 
 
