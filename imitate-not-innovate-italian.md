@@ -10,7 +10,7 @@ E' contro intuitivo, ma più imitiamo gli altri, più velocemente scopriremo il 
 
 Riflettendo sulle proprie influenze, Conan O’Brien disse: _"È il nostro fallimento nel diventare come il nostro ideale che alla fine ci definisce e ci rende unici"_.
 
-I moderni creatori/artisti di contenuti invece seguono la strada opposta. Rifiutano di imitare altri venuti prima di loro e insistono sulla propria originalità, anche a discapito della qualità finale. Negano l'ossessione verso l'originalità quando parli con loro, ma le loro azioni smascherano le loro tendenze. In generale, gli artisti impiegano troppo poco tempo a imitare i loro eroi e troppo sforzo cercando di fare qualcosa di nuovo. La chiamo malattia/ossesione dell'originalità (Originality Disease) ed è una piaga che porta gli artisti ad avere molta paura di imitare lo stile degli altri.
+I moderni creatori/artisti di contenuti invece seguono la strada opposta. Rifiutano di imitare altri venuti prima di loro e insistono sulla propria originalità, anche a discapito della qualità finale. Negano l'ossessione verso l'originalità quando parli con loro, ma le loro azioni smascherano le loro tendenze. In generale, gli artisti impiegano troppo poco tempo a imitare i loro eroi e troppo sforzo cercando di fare qualcosa di nuovo. La chiamo malattia/ossessione dell'originalità (Originality Disease) ed è una piaga che porta gli artisti ad avere molta paura di imitare lo stile degli altri.
 
 Il problema è anche peggiore con gli scrittori che tendono a raccontare della loro arte con un certo mistero. Gli scrittori però dimostrerebbero più saggezza se si lasciassero apertamente ispirare da altri contesti.
 
@@ -30,9 +30,9 @@ Prendiamo ad esempio George Lucas. Per preparare Star Wars si è rifatto al pens
 
 L'originalità artistica di Lucas è stata accresciuta da una imitazione rispettosa del lavoro di Campbell e dei suoi temi ricorrenti. Se Lucas avesse sofferto di originalità forzata, cosa che affligge così tanti scrittori contemporanei, Star Wars non sarebbe diventato ciò che oggi conosciamo.
 
-## Originalità come ossesione (Originality Disease)
+## Originalità come ossessione (Originality Disease)
 
-Propongo 3 ipotesi sull'origine dell'ossesione di originalità:
+Propongo 3 ipotesi sull'origine dell'ossessione di originalità:
 
 La prima è abbastanza lampante: non conoscere la fonte dell'ispirazione. Alcune delle ispirazioni più forti provengono dall'ammirazione (e forse anche dal [reverse engineering](https://perell.com/essay/practice-analytically-perform-intuitively/) per l'ambito tech) del lavoro di altre persone. Ma troppi pensano che l'ispirazione possa venire dal nulla, come un colpo di fulmine. Si teme che le muse ispiratrici non si degnino di fare visita ad una mente già occupata da idee altrui. Invece di stare sulle spalle di chi è venuto prima di loro, si cerca dentro di sé un'idea rivoluzionaria.
 
