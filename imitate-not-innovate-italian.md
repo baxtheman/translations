@@ -2,7 +2,7 @@ Traduzione italiana dell'articolo https://perell.com/essay/imitate-then-innovate
 
 # Vuoi innovare? Inizia ad imitare.
 
-![](https://i0.wp.com/perell.com/wp-content/uploads/2022/02/Finley2.jpg?resize=1536%2C1229&ssl=1)
+![](images/innovate-main.png)
 
 Imitare, e solo poi innovare, è il mio motto per migliorare ogni aspetto personale.
 
@@ -24,7 +24,7 @@ Non so voi, ma io sono un tipo che si butta sul divano con i popcorns e si gode 
 
 Ascoltando un regista rileggere un film viene da chiedermi: "Abbiamo visto lo stesso film?". Viene la sensazione di aver solo vissuto un mondo monodimensionale, mentre l'altro viveva uno spazio di 4 dimensioni.
 
-Da questa esperienza ho imparato che gli artisti consumano l'arte in modo diverso dai profani. Sono consumatori di arte con uno scopo ben preciso, è la loro attività principale. I registi non guardano film per rilassarsi, ma per vedere come sono fatti. Coscientemente o meno, solo guardando, creano un loro personale catalogo "pinterest" nella mente, una libreria di idee da riusare per i loro prossimi lavori.
+Da questa esperienza ho imparato che gli artisti consumano l'arte in modo diverso dai profani. Sono consumatori di arte con uno scopo ben preciso, è la loro attività principale. I registi non guardano film per rilassarsi, ma per vedere come sono fatti. Coscientemente o meno, solo guardando, creano un loro personale catalogo Pinterest nella mente, una libreria di idee da riusare per i loro prossimi lavori.
 
 Prendiamo ad esempio George Lucas. Per preparare Star Wars si è rifatto al pensiero di Joseph Cambell che ha avuto una carriera sullo studio di mitologia e religione. Attraverso i suoi scritti, ha esposto una teoria dell'eroe archetipico che compare in tutti i racconti fatti nel corso della storia. Mentre Lucas scriveva Star Wars traeva ispirazione dal libro più famoso di Campbell: "The Hero with a Thousand Faces". Lucas sentiva che la triade di mitologia, folklore e fiabe era scomparsa in Occidente e voleva che il suo nuovo film la facesse rivivere. Per allineare la storia con i classici che avevano risuonato in così tante culture umane, Lucas ha riscritto la sua bozza di Star Wars per allinearla al lavoro di Cambell.
 
@@ -48,7 +48,7 @@ L'alternativa è andare verso la verità. Nelle parole di C.S. Lewis, famoso per
 
 Le parole di C.S.Lewis sono in linea con la premessa dell'eccellente documentario di Roger Scruton "Why Beauty Matters". Ci troviamo l'idea che prima del 20° secolo, se qualcuno avesse chiesto a qualcun altro quale fosse lo scopo di creare arte, questi avrebbe detto: "Per fare qualcosa di bello". Ma dal tempo dell'urinatoio di Duchamp nel 1917, il primo scopo dell'arte è scioccare lo spettatore in modo originale, la qualità è cosa secondaria. Per catturare l'attenzione di chi guarda l'artista usa atteggiamenti disturbanti cercando di violare qualche tabù. Piuttosto di raggiungere l'alto obbiettivo della bellezza oggettiva, è stato esposto il "mondo interiore" e i risultati sono stati decisamente brutti. Scruton rimarca che il linguaggio, la musica e l'educazione sono aspetti divenuti offensivi oppure auto-referenziali. Scruton indica il declino della bellezza come causa della auto-referenzialità della modernità e di una insensata rottura con la tradizione.
 
-![Duchamp’s Urinal](https://lh5.googleusercontent.com/cBCRPetoJ3keQd5W3FeeecrPFKwAtceaGnEa0DPr2V2ga4OhufXxd5sD_AJPX7HuaF-nsiVrmsI2vLnFXpmIRXirU-CGC3ZCMvTNQNFwJ_d3mRx0BUbqJfEgzVv3pxw4h--hPLT7) Duchamp’s Urinal
+![Duchamp’s Urinal](images/innovate-urinal.jpg) Duchamp’s Urinal
 
 Con quanto detto non voglio premiare la pigrizia. Adoro ammirare le innovazioni umane e penso che sopravalutare la tradizione possa limitare il progresso. Guardiamo agli artisti dell'antico egitto come esempio negativo. Furono cresciuti per scrivere in modo molto rigido, il loro apprendistato veniva completato solo dopo aver acquisito la capacità di disegnare immagini e simboli nella pietra secondo le regole stabilite. Ernst Gombrich, nel suo "The Story of Art", diceva: "Nessuno voleva niente di diverso, nessuno chiedeva loro di essere originali. Al contrario, l'artista migliore era colui che riproduceva fedelmente i manufatti del passato". Guidati da una filosofia di riproduzione, e mai di innovazione, l'arte egizia non ebbe mai evoluzioni. Mille anni dopo, nuove opere che somigliavano molto a quelle ancestrali furono elogiate allo stesso modo. Pochi cambiamenti e piccoli progressi, l'imitazione senza l'innovazione.
 
@@ -64,7 +64,7 @@ L'etimologia della parola imitare/emulare è un aspetto per me interessante. Al 
 
 Guardando alla storia, il tipico apprendimento basato sull'imitazione è sempre stato il tirocinio, anche detto noviziato. Lo vediamo nella vita di Leonardo Da Vinci. Non ha avuto un percorso scolastico come lo intendiamo oggi, ma il suo tirocinio è iniziato a 14 anni. Il tempo nella bottega del suo maestro gli ha fatto imparare la matematica, il disegno e la bellezza della geometria. Nel perfetto spirito "prima imita, poi innova" c'è grande correlazione fra ciò  che Leonardo ha prima osservato e cosa poi ha realizzato da se stesso. Di fatto uno dei più famosi lavori del suo maestro è un giovane Davide trionfante su Golia. Detto questo non dovrebbe quindi sorprendere che questo lavoro somigli molto al Davide dipinto da Leonardo successivamente, e che questo forse ha pure influenzato il successivo David di Michelangelo.
 
-![Da destra a sinistra: Verrocchio, Michelangelo, bozzetto di Leonardo da Vinci](https://lh4.googleusercontent.com/VsmI4GHCNPEjMKgUN0mkf1eiqsphKi7tvQahOdwnZvvFapknfvjayFeWk0ZtXJriWnrTPnKdvIQm2SnoAJEukl2MvIKNJgDTHPfthinx7QyoQJX3Tv2BbffWqS-oDAONEiH6gIMp) Da destra a sinistra: Verrocchio, Michelangelo, bozzetto di Leonardo da Vinci
+![Da destra a sinistra: Verrocchio, Michelangelo, bozzetto di Leonardo da Vinci](images/innovate-leonardo.png) Da destra a sinistra: Verrocchio, Michelangelo, bozzetto di Leonardo da Vinci
 
 Oggi le cose sono diverse. Abbiamo abbandonato l'apprendistato in nome dell'efficienza. Oggi l'aspirante Da Vinci sarebbe alla scuola professionale e non in bottega con il suo maestro. Con il declino della vita da apprendista è venuto meno l'apprendimento per emulazione. La doppia ascesa della carta stampata prima e della scuola per tutti poi ha valorizzato in modo esagerato la conoscenza che risiede nei libri. L'umanità ha guadagnato enormemente dalla diffusione di massa della conoscenza, ma ha dato troppa importanza all'idea che la conoscenza viaggi principalmente attraverso la lettura. La trasmissione del saper fare e la conoscenza 'muscolare' si è persa nella trascrizione.
 
@@ -110,11 +110,11 @@ La prefazione del mio [saggio su Peter Thiel](https://perell.com/essay/peter-thi
 
 Fino ad allora, prima del volo umano, la fotografia aveva lo scopo di catturare un singolo istante di tempo. Ma per poter risolvere la necessità di catturare sequenze in movimento, Marey inventò un sistema per catturare serie di immagini e sovrapporle in un unico foglio. Dalla sequenza unita di foto, si potevano osservare i movimenti e capirne i dettagli in un modo prima impossibile ad occhio nudo. Marey, fisiologo e cardiologo, è riconosciuto precursore della cinematografia. Imitare e poi innovare in questo caso significa che Marey non voleva essere originale, voleva rispondere ad una necessità e la fotografia è stata fonte di ispirazione. 
 
-![Etienne-Jules Marey’s Bird in Flight](https://collectionapi.metmuseum.org/api/collection/v1/iiif/286544/611465/main-image) Etienne-Jules Marey’s Bird in Flight
+![Etienne-Jules Marey’s Bird in Flight](images/innovate-birds.jpg) Etienne-Jules Marey’s Bird in Flight
 
 Voglio sottolineare qui un aspetto importante. Imitare non significa diventare o fare le stesse cose di qualcun'altro. Confondere l'ispirazione con la semplice riproduzione porta all'appiattimento dello stile e priva la società del dinamismo individuale. Sono tempi in cui la riproduzione cieca di certi stili è evidente nel marketing e nel design. E' evidente come nella comunicazione di molti top brand troppo spesso si usano le stesse illustrazioni caricaturali.
 
-![These cartoon drawings are everywhere](https://lh5.googleusercontent.com/AH1s39UoWaSAVGXEc2_DYLuTL6IAwNwieN4Kc-rJNwC9qr_978T6CDdiN3FPRPmYXEOM5rDe0besM5k4a10IFyvVxw9pUvrYY2zx8pVjmRLWTy3JEWleDikSoJCoGK3cUPca0_j6) Questi disegni sono ovunque.
+![These cartoon drawings are everywhere](images/innovate-drawings.png) Questi disegni sono ovunque.
 
 La situazione peggiora in ambienti strettamente interconnessi, quando le persone usano l'arte solo per impressionare gli altri. Ogni nuova persona che si introduce in un certo settore, che prima ha attraversato percorsi di studio standard, tenderà ad adottare le stesse abitudini generali già consolidate. Quello che abbiamo guadagnato dalla formazione di massa, lo abbiamo perso nell'unicità dei risultati. Erik Hoel, in un testo dal titolo "How the MFA Swallowed Literature", faceva notare come la narrativa contemporanea condivida gli stessi stereotipi su come la società dovrebbe funzionare, oltre a condividere lo stesso stile minimalista. Questo contrasta con la storia dei migliori scrittori classici i quali non hanno ricevuto una formazione uniforme. William Faulkner non ha finito l'università (come Steve Jobs), Dostoevsky era ingegnere, e Virginia Woolf ha ricevuto una educazione parentale.
 
