@@ -1,6 +1,6 @@
 Traduzione italiana dell'articolo https://perell.com/essay/imitate-then-innovate/ di David Perell.
 
-# Prima di innovare, inizia ad imitare.
+# Vuoi innovare? Inizia ad imitare.
 
 ![](https://i0.wp.com/perell.com/wp-content/uploads/2022/02/Finley2.jpg?resize=1536%2C1229&ssl=1)
 
@@ -140,9 +140,9 @@ Lo scrivere è uguale. Con l'insegnamento ho scoperto che il tratto distintivo d
 
 Come abbiamo visto finora, trovarsi nella situazione della Originality Disease non è una buona situazione per essere veramente originali. Raramente uno scrittore, o in generale un artista, si sente bloccato tanto quanto sente che le sue idee non sono abbastanza originali. Un pensiero del genere, se si fa presente, può portare in una pericolosa spirale discendente. L'ossessione per l'originalità può portare nella direzione opposta, la riproduzione di altri modelli, e generare un circolo vizioso. Coloro che considerano l'originalità la loro virtù più alta sono destinati a rimanere incastrati o a non creare nulla di sostanziale.
 
-Meglio prima imitare, e poi trovare l'innovazione.
+Meglio prima imitare, per poi trovare la giusta innovazione.
 
-Ringrazio il supporto di Ellen Fishbein, Patrick Collison, Pranav Mutatkar, Johnathan Bi, Tiago Forte, Michael Dean, Tyler Cowen, and Will Mannon per le conversazioni che hanno portato a questo saggio.
+Ringrazio il supporto di Ellen Fishbein, Patrick Collison, Pranav Mutatkar, Johnathan Bi, Tiago Forte, Michael Dean, Tyler Cowen, e Will Mannon per le conversazioni che hanno portato a questo saggio.
 
 ---
 
